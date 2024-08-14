@@ -28,4 +28,13 @@ The main screen displays the user's current balance, along with a brief overview
 - Transaction History:A complete list of all income and expenses.
 - Categories: Transactions are grouped by categories ("Health," "Clothing," "Pets," etc.) for easy analysis.
 
+### User Profile
+<img width="200" height="385" src="https://github.com/user-attachments/assets/aa38b7fe-90dd-45a3-b454-9a530a7c31a1">
+
+- **Edit Information:** Users can update their first name, last name, email address, and password.
+- **Add or Change Profile Picture:** By tapping the "Add Photo" button, users can upload or update their profile picture.
+- **Log Out:** At the bottom of the screen, there is a "Log Out" button that allows users to end their session and log out of the app.
+
+
+
 
