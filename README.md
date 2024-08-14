@@ -4,6 +4,18 @@ The app was developed by a team of six using UIKit.
 The project was managed on GitHub using the Kanban methodology, with the help of GitHub Projects to organize tasks and track their progress. 
 This approach allowed for efficient workflow management and visibility into all stages of development.
 
+## Tech Stack
+- Swift
+- UIKit
+- Git
+- GitHub
+
+### Project Management
+The project was organized and managed using the Kanban methodology:
+
+- Kanban
+- GitHub Projects
+- 
 ## Registation Screen
 <img width="200" height="385" alt="Снимок экрана 2024-08-14 в 15 15 29" src="https://github.com/user-attachments/assets/cd177399-2bb9-4b1d-96f9-f19d0631ae82">
 <img width="200" height="385" alt="Снимок экрана 2024-08-14 в 15 16 27" src="https://github.com/user-attachments/assets/be897250-ac55-4073-8048-49accd121550">
@@ -25,8 +37,8 @@ The main screen displays the user's current balance, along with a brief overview
 ## Transaction History
 <img width="200" height="385" src="https://github.com/user-attachments/assets/d79b3bc8-a8d1-4117-b745-b5e6bdaa5515">
 
-- Transaction History:A complete list of all income and expenses.
-- Categories: Transactions are grouped by categories ("Health," "Clothing," "Pets," etc.) for easy analysis.
+- **Transaction History:** A complete list of all income and expenses.
+- **Categories:** Transactions are grouped by categories ("Health," "Clothing," "Pets," etc.) for easy analysis.
 
 ### User Profile
 <img width="200" height="385" src="https://github.com/user-attachments/assets/aa38b7fe-90dd-45a3-b454-9a530a7c31a1">
