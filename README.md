@@ -20,11 +20,6 @@ The main screen displays the user's current balance, along with a brief overview
 - After adding income or expenses, the balance is automatically updated, and the changes are immediately reflected on the main screen.
 - The main screen also shows a history of income and expenses, categorized into groups such as "Health," "Clothing," "Pets," and others, allowing users to better manage their finances.
 
-## Features
 
-- **Set Financial Goals**: Users can define specific financial targets, such as saving for a big purchase or building an emergency fund.
-- **Track Expenses**: The app helps users keep track of their daily, weekly, and monthly expenditures.
-- **Record Incomes**: Users can log all income sources to get a clear view of their financial situation.
-- **Budget Management**: The app assists in creating and adjusting budgets based on goals and expenses.
 
 
