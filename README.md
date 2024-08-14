@@ -19,7 +19,12 @@ The main screen displays the user's current balance, along with a brief overview
 - Users can quickly add new income or expenses by tapping the "Add Income" or "Add Expense" buttons.
 - After adding income or expenses, the balance is automatically updated, and the changes are immediately reflected on the main screen.
 - The main screen also shows a history of income and expenses, categorized into groups such as "Health," "Clothing," "Pets," and others, allowing users to better manage their finances.
+- **Notifications:** The app praises users for reaching goals and warns when limits are exceeded.
 
 
+## Transaction History
+<img width="200" height="385" src="https://github.com/user-attachments/assets/39a782c5-120d-4a1f-918b-6e1970a78e45">
+- **Transaction History:** A complete list of all income and expenses.
+- **Categories:** Transactions are grouped by categories ("Health," "Clothing," "Pets," etc.) for easy analysis.
 
 
