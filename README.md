@@ -9,8 +9,8 @@ This approach allowed for efficient workflow management and visibility into all 
 <img width="200" height="385" alt="Снимок экрана 2024-08-14 в 15 16 27" src="https://github.com/user-attachments/assets/be897250-ac55-4073-8048-49accd121550">
 
 ## Main Screen
-<img width="200" height="400" src="https://github.com/user-attachments/assets/5e3247bf-5db7-49cb-bfda-aaa672555ce5">
-<img width="200" height="400" src="https://github.com/user-attachments/assets/f29ee600-9821-4f15-a29f-c7a57e6169df">
+<img width="200" height="385" src="https://github.com/user-attachments/assets/5e3247bf-5db7-49cb-bfda-aaa672555ce5">
+<img width="200" height="385" src="https://github.com/user-attachments/assets/f29ee600-9821-4f15-a29f-c7a57e6169df">
 - The main screen displays the user's current balance, along with a brief overview of income and expenses.
 - Users can quickly add new income or expenses by tapping the "Add Income" or "Add Expense" buttons.
 - After adding income or expenses, the balance is automatically updated, and the changes are immediately reflected on the main screen.
