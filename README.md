@@ -15,7 +15,7 @@ The project was organized and managed using the Kanban methodology:
 
 - Kanban
 - GitHub Projects
-- 
+  
 ## Registation Screen
 <img width="200" height="385" alt="Снимок экрана 2024-08-14 в 15 15 29" src="https://github.com/user-attachments/assets/cd177399-2bb9-4b1d-96f9-f19d0631ae82">
 <img width="200" height="385" alt="Снимок экрана 2024-08-14 в 15 16 27" src="https://github.com/user-attachments/assets/be897250-ac55-4073-8048-49accd121550">
@@ -47,6 +47,14 @@ The main screen displays the user's current balance, along with a brief overview
 - **Add or Change Profile Picture:** By tapping the "Add Photo" button, users can upload or update their profile picture.
 - **Log Out:** At the bottom of the screen, there is a "Log Out" button that allows users to end their session and log out of the app.
 
+## My Contribution to the Project
 
+In the development of **MoneyAccountingApp**, I played a pivotal role in creating and implementing several key components:
 
+- **Data Models Implementation:** I fully designed and implemented all of the app’s data models, ensuring robust and efficient management of users' financial data, which serves as the foundation for all app functionalities.
+- **Profile Screen:** I designed and developed the user profile screen, allowing users to manage their personal information, add and update profile pictures, and securely log out of the app.
+- **Participation in Data Transfer Implementation:** I actively participated in the development of the data transfer mechanism, which updates the overall balance and related data across all screens of the app when the income amount changes. This ensured that users receive real-time updates on their financial information.
+- **Active Development Participation:** I was actively involved in all aspects of the app's development, including UI design and enhancing user experience, contributing to the high standards of quality and performance that the app achieved.
+
+My contributions ensured the app's stability, enhanced its functionality, and improved user satisfaction, playing a significant role in the successful completion of the project.
 
