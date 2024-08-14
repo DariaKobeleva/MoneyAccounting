@@ -24,7 +24,8 @@ The main screen displays the user's current balance, along with a brief overview
 
 ## Transaction History
 <img width="200" height="385" src="https://github.com/user-attachments/assets/39a782c5-120d-4a1f-918b-6e1970a78e45">
-- **Transaction History:** A complete list of all income and expenses.
-- **Categories:** Transactions are grouped by categories ("Health," "Clothing," "Pets," etc.) for easy analysis.
+
+- Transaction History:A complete list of all income and expenses.
+- Categories: Transactions are grouped by categories ("Health," "Clothing," "Pets," etc.) for easy analysis.
 
 
