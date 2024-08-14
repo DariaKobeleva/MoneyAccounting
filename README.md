@@ -9,9 +9,9 @@ This approach allowed for efficient workflow management and visibility into all 
 <img width="200" height="385" alt="Снимок экрана 2024-08-14 в 15 16 27" src="https://github.com/user-attachments/assets/be897250-ac55-4073-8048-49accd121550">
 
 ## Main Screen
+The main screen displays the user's current balance, along with a brief overview of income and expenses.
 <img width="200" height="385" src="https://github.com/user-attachments/assets/5e3247bf-5db7-49cb-bfda-aaa672555ce5">
 
-- The main screen displays the user's current balance, along with a brief overview of income and expenses.
 
   <img width="200" height="385" src="https://github.com/user-attachments/assets/f29ee600-9821-4f15-a29f-c7a57e6169df">
 
